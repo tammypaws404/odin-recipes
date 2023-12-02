@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darksalmon;
+}
+
+.card {
+    width: 700px;
+    border: 2px solid red;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: rgb(255, 135, 91);
+}
+
+a {
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.header,
+img {
+    border: 2px solid rgb(158, 3, 0);
+    margin: 5px auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.container .section {
+    width: fit-content;
+    text-align: center;
+}
+
+.header {
+    background-color: rgba(250, 186, 172, 0.973);
+    width: fit-content;
+}
+
+img {
+    height: 400px;
+    width: auto;
+    border-radius: 10%;
+}
+
+button {
+    display: inline;
+    padding: 15px;
+    border: 3px double rgb(217, 104, 255);
+}
+
+.back {
+    display: block;
+    padding: 5px;
+    border: 3px solid red;
+    background-color: orangered;
+    margin: 10px auto;
+}
